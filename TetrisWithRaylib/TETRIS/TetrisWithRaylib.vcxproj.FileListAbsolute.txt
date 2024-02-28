@@ -1,0 +1,3 @@
+C:\Users\sacha\source\repos\TetrisWithRaylib\x64\Debug\TetrisWithRaylib.vcxproj.CopyComplete
+C:\Users\sacha\source\repos\TetrisWithRaylib\x64\Debug\TetrisWithRaylib.exe
+C:\Users\sacha\source\repos\TetrisWithRaylib\x64\Debug\raylib.dll

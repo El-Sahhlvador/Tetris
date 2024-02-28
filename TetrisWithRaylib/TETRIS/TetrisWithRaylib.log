@@ -1,0 +1,15 @@
+﻿  Block.cpp
+  blocks.cpp
+C:\Users\sacha\source\repos\TetrisWithRaylib\Block.cpp(55,32): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+  Colors.cpp
+C:\Users\sacha\source\repos\TetrisWithRaylib\Colors.cpp(9,24): warning C4838: la conversion de 'int' en 'unsigned char' requiert une conversion restrictive
+C:\Users\sacha\source\repos\TetrisWithRaylib\Colors.cpp(9,24): warning C4305: 'initialisation' : troncation de 'int' à 'unsigned char'
+C:\Users\sacha\source\repos\TetrisWithRaylib\Colors.cpp(9,24): warning C4309: 'initialisation' : troncation de valeur de constante
+  Game.cpp
+  Grid.cpp
+  Main.cpp
+C:\Users\sacha\source\repos\TetrisWithRaylib\Main.cpp(115,56): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\sacha\source\repos\TetrisWithRaylib\Main.cpp(122,58): warning C4305: 'argument' : troncation de 'double' à 'float'
+  Position.cpp
+  Génération de code en cours...
+  TetrisWithRaylib.vcxproj -> C:\Users\sacha\source\repos\TetrisWithRaylib\x64\Debug\TetrisWithRaylib.exe
